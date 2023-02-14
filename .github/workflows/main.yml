@@ -1,4 +1,4 @@
-Name: Exercicio
+name: Exercicio
 
 on:
   push:
